@@ -1,0 +1,20 @@
+.section {
+    background-color: rgb(26, 186, 192);
+}
+
+.headers {
+    color: rgb(0, 0, 36);
+    background-color: rgb(158, 194, 160);
+}
+
+#email {
+    background-color: rgb(74, 175, 105);
+}
+
+#github {
+    background-color: rgb(221, 130, 180)
+}
+
+#portfolio {
+    background-color: rgb(219, 164, 97);
+}
